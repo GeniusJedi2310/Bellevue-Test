@@ -21,4 +21,3 @@ print(f"The current temperature is {temp}")
 
 temp_max = unformated_data["main"]["temp_max"]
 print(f"The highest temperature is {temp_max}")
-#amogus
